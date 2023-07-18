@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "361287269459",
+    "firebase_url": "https://schoolpal-4a5a9.firebaseio.com",
+    "project_id": "schoolpal-4a5a9",
+    "storage_bucket": "schoolpal-4a5a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361287269459:android:2ebb71d81263b12d99daa6",
+        "android_client_info": {
+          "package_name": "com.collins.techocraft.lightgates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361287269459-uu49nvs7tddr3m7vp0lumrkvkpiq993k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCuNvWAj6OIEti2STnCdHXCb-Gy-OgZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361287269459-uu49nvs7tddr3m7vp0lumrkvkpiq993k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361287269459:android:3a233136c56442a399daa6",
+        "android_client_info": {
+          "package_name": "com.collins.techocraft.school_pal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361287269459-uu49nvs7tddr3m7vp0lumrkvkpiq993k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCuNvWAj6OIEti2STnCdHXCb-Gy-OgZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361287269459-uu49nvs7tddr3m7vp0lumrkvkpiq993k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
